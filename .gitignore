@@ -1,6 +1,10 @@
 
 HELP.md
 docs
+
+### Secrets ###
+src/main/resources/application-local.properties
+
 target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
